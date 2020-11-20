@@ -47,4 +47,8 @@
 #### HTML style syntax
 #### CSS style syntax
 #### Javascript syntax
+### Random shit
+#### Makefile syntax
+#### Bash syntax
+#### Time complexity
 ### C
