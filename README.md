@@ -36,3 +36,30 @@
 1. Try to have a main website and one info page (preferrably about a data structure we've just learnt) to test the process of using Markdown -> HTML conversion
 2. Write down everything we've ever learnt in Markdown
 3. Write CSS code to make it look pretty
+
+## Content
+### Data Structure
+#### Lists
+##### Linked Lists
+##### Stack
+##### Queue
+#### Hashtables
+#### Binary Trees
+##### Red Black Tree
+##### 2-3-4 Tree
+#### Graphs
+### File Structure
+### Algorithms
+### Java
+#### Classes
+#### Operators
+### Python
+### HTML, CSS, Javascript
+#### HTML style syntax
+#### CSS style syntax
+#### Javascript syntax
+### Random shit
+#### Makefile syntax
+#### Bash syntax
+#### Time complexity
+### C
