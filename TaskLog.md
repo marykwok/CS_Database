@@ -3,6 +3,7 @@
 ## Completed Tasks
 
 **19/12/2020** - Set up basic main page on rasberry pie
+**22/12/2020** - Set up RaspberryPi with SSH
 
 ## Scheduled Tasks
 
